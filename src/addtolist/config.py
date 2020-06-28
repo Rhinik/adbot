@@ -1,5 +1,5 @@
 LINK_PATTERN = r"(?:https://)?vk.com/{screen}"
-DELAY = 1
+DELAY = 6
 
 
 INVALID_LINK = "❗ Ссылка невалидна или указывает не на сообщество"
