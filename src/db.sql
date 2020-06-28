@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS last(
+    seq INTEGER NOT NULL,
+    id INTEGER NOT NULL,
+    peer_id INTEGER NOT NULL,
+    group_id INTEGER NOT NULL
+);
